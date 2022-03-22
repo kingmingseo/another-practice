@@ -2,7 +2,11 @@ team: Panthers
 
 manager: Sebastian
 
+<<<<<<< HEAD
 coach: Shierly
+=======
+coach: Raymond
+>>>>>>> cf4f626 (Edit Panthers)
 
 members:
 - Violet
